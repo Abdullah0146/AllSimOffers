@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AllSimOffers</string>
+
+    <string name="welcome_text">Welcome In My App</string>
+    <string name="intro_text">To use this app you need to make sure internet
+        connection</string>
+
+    <string name="developer_name">Developed by"\n"AbdSoft</string>
+
+    <string name="banglalink">Banglalink Offer</string>
+    <string name="grameenPhone">GrameenPhone Offer</string>
+    <string name="robi">Robi Offer</string>
+    <string name="airtel">Airtel Offer</string>
+    <string name="teletalk">Teletalk Offer</string>
+    <string name="about">About Me</string>
+    <string name="homeMenu">Home</string>
+    <string name="aboutMenu">About Me</string>
+    <string name="all_new_offer">All New Offer Are Available Here.</string>
+    <string name="name">Name: AbdSoft</string>
+    <string name="about_me">Email: md.abdullah0146@gmail.com</string>
+    <string name="some_word">
+        এই অ্যাপসে আপনি যদি কোন ত্রুটি পেয়ে থাকেন তাহলে এই ভুলটি আমাদের ধরিয়ে দিয়ে সহযোগিতা করবেন| আমরা পরবর্তী আপডেট এটি সংশোধন করিবার চেষ্টা করিব|
+    </string>
+    <string name="why_use_this_title">
+        আপনি এটি কেন ব্যবহার করবেন:-
+    </string>
+
+    <string name="why_use_this">
+        সাধারণত আমরা সিমের অফারের জন্য বিভিন্ন রকম অ্যাপস পেয়ে থাকি কিন্তু এগুলো মূলত অফ্লাইন ভিত্তিক তাই এগুলোতে নতুন কোন আপডেট আসলে আমরা পাই না ধরুন কোন একটি সিম কোম্পানি অ্যাপস টি পাবলিশ করার পর নতুন একটি অফার এর আপডেট দিল তাই আপনি যেহেতু অফলাইনের অ্যাপটি ব্যবহার করছেন তাই ওই অফারটি পাবেন না তাই আমরা এই বিষয়টি মাথায় রেখে এই অনলাইনভিত্তিক অ্যাপস টি তৈরি করেছি যেটা প্রত্যেকদিন এক থেকে দুইবার নতুন নতুন অফার গুলো আপডেট করে থাকি , যদি নতুন কোন আপডেট থেকে থাকে এতে করে আপনার কাঙ্খিত সিমের প্রত্যেকটি অফার আপনার জানা থাকবে কোন অফার আপনার অজানা থাকবে না|
+    </string>
+
+    <string name="how_to_use_title">
+        নির্দেশিকা:-
+    </string>
+
+    <string name="how_to_use">
+        প্রথমবার এই অ্যাপসটি ব্যবহার করার জন্য আপনাকে ইন্টারনেট সংযোগ চালু রাখতে হবে এবং এরপর আর ইন্টারনেট সংযোগ চালু রাখার দরকার হবে না তবে নতুন নতুন আপডেট পাওয়ার জন্য আপনাকে ইন্টারনেট সংযোগ চালু রাখতে হবে|এই অ্যাপসটি ব্যবহার করার জন্য আপনাকে ধন্যবাদ|
+    </string>
+
+
+    <string name="interstitial_ad_unit_id">"ca-app-pub-3940256099942544/1033173712"</string>
+    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
+

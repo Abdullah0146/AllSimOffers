@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564388919444",
+    "firebase_url": "https://allsimoffers.firebaseio.com",
+    "project_id": "allsimoffers",
+    "storage_bucket": "allsimoffers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564388919444:android:2ae5e16701dcc8b7",
+        "android_client_info": {
+          "package_name": "com.abdullah.md.allsimoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564388919444-qu0scfojnqnosljg10r6frofr5pbstdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdullah.md.allsimoffers",
+            "certificate_hash": "a06e6b0d5482cf4b94414df53c0317c305c29109"
+          }
+        },
+        {
+          "client_id": "564388919444-tulklfh9fvrlomfq555oi93o4ls3l0qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbB_MCArgZ399doaO6yFozCSVTyeVLckc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564388919444-tulklfh9fvrlomfq555oi93o4ls3l0qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
